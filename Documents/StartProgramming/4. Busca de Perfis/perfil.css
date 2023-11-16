@@ -1,0 +1,26 @@
+:root {
+  /* Color for search page from Github users */
+  --gray-100: white;
+  --gray-200: rgba(243, 229, 229, 0.927);
+  --gray-300: rgba(195, 187, 187, 0.991);
+  --gray-400: rgba(100, 96, 96, 0.995);
+
+  --black-400: rgba(100, 96, 96, 0.689);
+  --black-500: rgba(114, 100, 100, 0.995);
+  --black-600: rgba(100, 96, 96, 0.479);
+  --black-700: rgba(53, 50, 50, 0.995);
+  --black-800: rgba(0, 0, 0, 0.995);
+
+  --green-100: rgb(19, 244, 19);
+  --green-200: rgba(57, 186, 15, 0.365);
+
+  --white: white;
+}
+
+body {
+  background-color: var(--black-800);
+}
+
+
+
+
